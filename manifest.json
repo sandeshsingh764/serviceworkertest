@@ -1,0 +1,8 @@
+{
+  "short_name": "My App",
+  "name": "My Super Cool App",
+  "start_url": "/",
+  "background_color": "#ff0000",
+  "display": "standalone",
+  "theme_color": "#ff0000"
+}

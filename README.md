@@ -1,2 +1,2 @@
 # serviceworkertest
-service worker test offline on server
+Testing our service worker for offline capabilities
